@@ -1,0 +1,13 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FileDemo.js",
+  "scripts": {
+    "dev": "node --watch FileDemo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
